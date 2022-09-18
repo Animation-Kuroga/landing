@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -13,60 +14,147 @@
   <link rel="manifest" href="./assets/site.webmanifest">
   <link rel="mask-icon" href="./assets/safari-pinned-tab.svg" color="#5bbad5">
   <link rel="stylesheet" href="./index.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@500&display=swap" rel="stylesheet">
   <meta name="msapplication-TileColor" content="#da532c">
   <meta name="theme-color" content="#ffffff">
 
   <title>Kuroga</title>
 </head>
+
 <body>
   <header class="header">
     <div class="logo-wrapper">
       <img class="img-logo" src="./assets/android-chrome-512x512.png" alt="Kuroga logo">
       <span>Kuroga</span>
     </div>
-    <a href='https://play.google.com/store/apps/details?id=com.personal.butterfly&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'>
-      <img class="img-google-play" alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/>
-    </a>
+    <div class="badge-wrapper">
+      <a title="Get it on Google Play" href='https://play.google.com/store/apps/details?id=com.personal.butterfly&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'>
+        <img class="img-google-play" alt='Get it on Google Play'
+          src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' />
+      </a>
+      <a title="Available on Galaxy Store" href='https://galaxy.store/kuroga1'>
+        <img class="img-google-play" alt='Available on Galaxy Store' src='./assets/GalaxyStore_English.png' />
+      </a>
+    </div>
   </header>
   <main class="content">
+    <!-- canvas -->
     <section class="section">
-      <h2 class="sec-title">Make pictures one by one and generate a GIF on Kuroga, have a try now!</h2>
       <figure class="img-fig">
         <div class="phone-frame">
-          <img class="intro-img" src="./assets/intros/canvas-draw.png" alt="Make gif on Kuroga">
+          <img class="intro-img" src="./assets/intros/canvas.png" alt="Make gif on Kuroga">
         </div>
       </figure>
+      <div class="desc-sec">
+        <h3>Free canvas</h3>
+        <h2 class="sec-title">Sketching images on canvas and make GIF frame by frame.</h2>
+      </div>
     </section>
-    <section class="section" style="flex-wrap: wrap-reverse;">
-      <figure class="img-fig">
-        <div class="phone-frame">
-          <img class="intro-img" src="./assets/intros/post-my-gif.png" alt="Make gif on Kuroga">
-        </div>
-      </figure>
-      <h2 class="sec-title">Share your fun and creative animations with your friends or post them in Kuroga that every one in Kuroga can see it.</h2>
-    </section>
+    <!-- pixel -->
     <section class="section">
-      <h2 class="sec-title">Find a fun GIF and share with your friends. Of course your animations would be presented here when you have posted them.</h2>
       <figure class="img-fig">
         <div class="phone-frame">
-          <img class="intro-img" src="./assets/intros/view-gifs.png" alt="Make gif on Kuroga">
+          <img class="intro-img" src="./assets/intros/pixel.png" alt="Make gif on Kuroga">
         </div>
       </figure>
+      <div class="desc-sec">
+        <h3>Pixel square</h3>
+        <h2 class="sec-title">Fill pixels and create an amazing GIF animation one by one.</h2>
+      </div>
     </section>
-    <section class="section" style="flex-wrap: wrap-reverse;">
+    <!-- settings -->
+    <section class="section">
       <figure class="img-fig">
         <div class="phone-frame">
-          <img class="intro-img" src="./assets/intros/comment-like.png" alt="Make gif on Kuroga">
+          <img class="intro-img" src="./assets/intros/settings.png" alt="Make gif on Kuroga">
         </div>
       </figure>
-      <h2 class="sec-title">Comment an animation or give a like to it if you like it. You would receive likes and comments when have posted your animations.</h2>
+      <div class="desc-sec">
+        <h3>Canvas Settings</h3>
+        <h2 class="sec-title">
+          Choose stroke width and background color for your canvas and set a proper frame rate for your GIF animation.
+        </h2>
+      </div>
+    </section>
+    <!-- post -->
+    <section class="section">
+      <figure class="img-fig">
+        <div class="phone-frame">
+          <img class="intro-img" src="./assets/intros/post.png" alt="Make gif on Kuroga">
+        </div>
+      </figure>
+      <div class="desc-sec">
+        <h3>Post your creation</h3>
+        <h2 class="sec-title">Post your creative GIF animation that everyone on Kuroga can see it.</h2>
+      </div>
+    </section>
+    <!-- comments -->
+    <section class="section">
+      <figure class="img-fig">
+        <div class="phone-frame">
+          <img class="intro-img" src="./assets/intros/comments.png" alt="Make gif on Kuroga">
+        </div>
+      </figure>
+      <div class="desc-sec">
+        <h3>Comments & Likes</h3>
+        <h2 class="sec-title">Comments and give likes for your favorite GIF created by Kuroga members.</h2>
+      </div>
+    </section>
+    <!-- share -->
+    <section class="section">
+      <figure class="img-fig">
+        <div class="phone-frame">
+          <img class="intro-img" src="./assets/intros/share.png" alt="Make gif on Kuroga">
+        </div>
+      </figure>
+      <div class="desc-sec">
+        <h3>Share with your friends</h3>
+        <h2 class="sec-title">Don't forget share your GIF with your friends.</h2>
+      </div>
+    </section>
+    <!-- theme: topic -->
+    <section class="section">
+      <figure class="img-fig">
+        <div class="phone-frame">
+          <img class="intro-img" src="./assets/intros/topics.png" alt="Make gif on Kuroga">
+        </div>
+      </figure>
+      <div class="desc-sec">
+        <h3>Themes: Topics</h3>
+        <h2 class="sec-title">Write anything you'd think or feedback that everyone will read and be enlightened.</h2>
+      </div>
+    </section>
+    <!-- avatars -->
+    <section class="section">
+      <figure class="img-fig">
+        <div class="phone-frame">
+          <img class="intro-img" src="./assets/intros/avatar.png" alt="Make gif on Kuroga">
+        </div>
+      </figure>
+      <div class="desc-sec">
+        <h3>Enjoy your avatars</h3>
+        <h2 class="sec-title">Choose an image as your avatar and enjoy it!</h2>
+      </div>
     </section>
   </main>
   <footer class="footer">
-    <div class="dev-desc"><span>Contact us:&nbsp;</span><a class="mail-link" href="mailto:kuroga2020@gmail.com">kuroga2020@gmail.com</a></div>
-    <a href='https://play.google.com/store/apps/details?id=com.personal.butterfly&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'>
-      <img class="img-google-play" alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/>
-    </a>
+    <div class="dev-desc"><span>Contact us:&nbsp;</span>
+      <a class="mail-link" href="mailto:kuroga2020@gmail.com">
+        kuroga2020@gmail.com
+      </a>
+    </div>
+    <div class="badge-wrapper">
+      <a title="Get it on Google Play" href='https://play.google.com/store/apps/details?id=com.personal.butterfly&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'>
+        <img class="img-google-play" alt='Get it on Google Play'
+          src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' />
+      </a>
+      <a title="Available on Galaxy Store" href='https://galaxy.store/kuroga1'>
+        <img class="img-google-play" alt='Available on Galaxy Store' src='./assets/GalaxyStore_English.png' />
+      </a>
+    </div>
   </footer>
 </body>
+
 </html>

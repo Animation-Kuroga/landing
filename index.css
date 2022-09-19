@@ -93,6 +93,7 @@ body {
 }
 .desc-sec {
   flex: 1;
+  max-width: 100%;
   text-align: center;
 }
 .desc-sec h3 {

@@ -55,6 +55,11 @@ body {
   height: 100vh;
   color: #eee;
 }
+@media screen and (max-width: 640px) {
+  .section {
+    flex-direction: column;
+  }
+}
 .section:nth-child(even) {
   flex-direction: row-reverse;
 }
@@ -103,6 +108,7 @@ body {
 .img-fig {
   width: 40%;
   max-width: 216px;
+  max-height: 80vh;
   flex: none;
 }
 

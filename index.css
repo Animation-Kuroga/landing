@@ -26,14 +26,13 @@ body {
 }
 
 .logo-wrapper {
-  width: 160px;
   cursor: default;
   user-select: none;
   font-size: 24px;
   flex: none;
 }
 .img-logo {
-  width: 40px;
+  width: 10vw;
   vertical-align: middle;
   margin-right: 5px;
 }
@@ -99,7 +98,7 @@ body {
 }
 
 .img-fig {
-  width: 216px;
+  width: 40%;
   flex: none;
 }
 
@@ -148,6 +147,7 @@ body {
 
 .dev-desc {
   display: flex;
+  flex: 1;
   align-items: center;
 }
 .badge-wrapper {

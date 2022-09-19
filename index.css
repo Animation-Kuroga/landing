@@ -150,8 +150,10 @@ body {
 
 .dev-desc {
   display: flex;
+  flex-direction: column;
   flex: 1;
   align-items: center;
+  justify-content: center;
 }
 .badge-wrapper {
   display: flex;

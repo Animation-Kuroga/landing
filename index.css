@@ -85,10 +85,9 @@ body {
 }
 
 .sec-title {
-  width: 512px;
   font-size: 26px;
   text-align: center;
-  padding: 0 30px;
+  padding: 0 10px;
   font-weight: normal;
 }
 .desc-sec {

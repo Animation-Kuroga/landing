@@ -92,6 +92,7 @@ body {
   font-weight: normal;
 }
 .desc-sec {
+  flex: 1;
   text-align: center;
 }
 .desc-sec h3 {
@@ -150,10 +151,8 @@ body {
 
 .dev-desc {
   display: flex;
-  flex-direction: column;
   flex: 1;
   align-items: center;
-  justify-content: center;
 }
 .badge-wrapper {
   display: flex;

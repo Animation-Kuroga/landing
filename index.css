@@ -113,6 +113,7 @@ body {
 
 .intro-img {
   width: 100%;
+  height: auto;
 }
 
 .phone-frame {

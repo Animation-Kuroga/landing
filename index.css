@@ -118,6 +118,7 @@ body {
 
 .phone-frame {
   position: relative;
+  width: 100%;
   display: inline-block;
   background-color: #333;
   padding: 10px 5px;
@@ -128,6 +129,7 @@ body {
 }
 
 .phone-frame img {
+  display: block;
   border-radius: 6px;
 }
 

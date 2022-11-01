@@ -1,0 +1,18 @@
+{
+  "name": "kuroga_web",
+  "version": "1.0.0",
+  "description": "Kuroga web structure",
+  "main": "index.js",
+  "repository": "https://Animation-Kuroga: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@github.com/Animation-Kuroga/landing.git",
+  "author": "Lam <whatisurname7@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "translate": "node translations/trans.js",
+    "translate-app": "node translations/trans.js --forApp"
+  },
+  "dependencies": {
+    "axios": "^0.27.2",
+    "node-fetch": "^3.2.10",
+    "yargs": "^17.6.0"
+  }
+}

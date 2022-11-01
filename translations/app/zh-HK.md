@@ -1,0 +1,5 @@
+“”js
+CONTINUE_WITH_LOGIN_HINT：“嘿，您需要登錄才能解鎖更多功能！
+CURRENT_ANIMATIONS： “GIF”，
+MY_ANIMATIONS：“我嘅GIF”，
+```

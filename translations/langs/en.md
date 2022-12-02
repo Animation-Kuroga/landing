@@ -4,7 +4,7 @@
   SHORT_DESC: "Create animations by drawing on canvas frame by frame",
   FULL_DESC: `
   Basically, Kuroga provides 2 drawing modes for users: Free canvas & Pixel square. 
-  Free canvas allows users to sketch on canvas for free and Pixel square is composed of little squares so that users just need to fill the squares to make photos. 
+  Free canvas allows users to sketch on canvas freely and Pixel square is composed of little squares so that users just need to fill the squares to make photos. 
   Pixel square is more friendly for newbies.
   Kuroga also provides:
 

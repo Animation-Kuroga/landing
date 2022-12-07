@@ -1,29 +1,29 @@
-```js
-  NIMIKE: "Kuroga: Luo GIF luonnostelemalla",
-  SHORT_TITLE: "Kuroga: GIF maker",
-  SHORT_DESC: "Luo animaatioita piirtämällä kankaalle kehys kehykseltä",
-  FULL_DESC: `
-  Pohjimmiltaan Kuroga tarjoaa käyttäjille 2 piirustustilaa: ilmainen kangas ja pikselin neliö.
-  Ilmaisen kankaan avulla käyttäjät voivat luonnostella kankaalle ilmaiseksi, ja Pixel-neliö koostuu pienistä neliöistä, joten käyttäjien tarvitsee vain täyttää neliöt ottaakseen valokuvia.
+'''js
+  OTSIKKO: "Kuroga: Tee GIF luonnostelemalla",
+  SHORT_TITLE: "Kuroga: GIF-valmistaja",
+  SHORT_DESC: "Luo animaatioita piirtämällä kankaalle kehys kerrallaan",
+  FULL_DESC: "
+  Pohjimmiltaan Kuroga tarjoaa käyttäjille 2 piirustustilaa: Ilmainen kangas ja Pixel-neliö. 
+  Ilmaisen kankaan avulla käyttäjät voivat luonnostella kankaalle vapaasti ja Pixel-neliö koostuu pienistä neliöistä, joten käyttäjien tarvitsee vain täyttää neliöt valokuvien tekemiseksi. 
   Pixel square on ystävällisempi aloittelijoille.
   Kuroga tarjoaa myös:
 
-    Kanvasasetukset:
-      Valitse viivan leveys ja taustaväri kankaallesi ja aseta oikea kuvataajuus GIF-animaatiollesi.
+Canvas-asetukset:
+      Valitse piirtoalueelle viivan leveys ja taustaväri ja aseta oikea kehysnopeus GIF-animaatiollesi.
       
-    Julkaise luomuksesi:
+Julkaise luomuksesi:
       Lähetä luova GIF-animaatiosi, jotta kaikki Kurogan käyttäjät näkevät sen.
       
-    Kommentit ja tykkäykset:
-      Kommentoi ja anna tykkäyksiä Kurogan jäsenten luomille GIF-suosimillesi.
+Kommentit ja tykkäykset:
+      Kommentoi ja anna tykkäyksiä Kurogan jäsenten luomalle suosikki GIF-tiedostollesi.
       
-    Jaa ystäviesi kanssa:
-      Älä unohda jakaa GIF-tiedostosi ystäviesi kanssa.
+Jaa ystäviesi kanssa:
+      Älä unohda jakaa GIF -tiedostoasi ystäviesi kanssa.
       
-    Teemat (aiheet):
-      Kirjoita mitä tahansa mitä ajattelet tai palautetta, jonka kaikki lukevat ja valistuvat
+Teemat(Aiheet):
+      Kirjoita mitä tahansa ajattelet tai palautetta, jonka kaikki lukevat ja valaistuvat
       
-    Nauti avatareistasi:
-      Valitse kuva avatariksi ja nauti siitä!
+Nauti avatareistasi:
+      Valitse avatarisi kuva ja nauti siitä!
   `
 ```

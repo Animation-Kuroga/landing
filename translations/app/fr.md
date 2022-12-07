@@ -1,5 +1,24 @@
 '''js
-CONTINUE_WITH_LOGIN_HINT: « Hé, vous devez vous connecter pour déverrouiller d’autres fonctions! »
-CURRENT_ANIMATIONS: « GIF »,
-MY_ANIMATIONS : « Mes GIF »,
+  IAP_PERIOD_P1M: « Mois »,
+  IAP_PERIOD_P6M: « 6 mois »,
+  IAP_PERIOD_P1Y: « Année »,
+  REPORT_TEXT: « Rapport »,
+  REPLY_TEXT: « Réponse »,
+  REPORT_SUCCESS: « Nous avons reçu votre rapport, il sera examiné »,
+  REPORT_FAILED: 'Échec du rapport, réessayez-le',
+  DUPLICATED_BLOCK_HINT: 'Pas de soucis, vous avez déjà bloqué cet utilisateur',
+  BLOCKED_USERS: 'Utilisateurs bloqués',
+  BLOCK_USER_WARN_TITLE : « Vous bloquez cet utilisateur ! »,
+  BLOCK_USER_WARN_TEXT: 'Tout le contenu créé par cet utilisateur sera bloqué et supprimé de votre appareil. Voulez-vous continuer?',
+  BLOCK_USER: 'Bloquer',
+  BLOCKED_USERS_SCREEN_TITLE: 'Liste de blocage',
+  BLOCKED_USER_AVATAR : 'Avatar',
+  BLOCKED_USER_USERNAME: 'Nom d’utilisateur',
+  BLOCKED_USER_ACTION: « Action »,
+  UNBLOCK_TEXT: 'Débloquer',
+  UNBLOCK_WARN_TITLE: 'Débloquer',
+  UNBLOCK_WARN_TEXT: 'Tout le contenu créé par cet utilisateur sera récupéré après confirmation. Voulez-vous continuer?',
+  REPORT_WARN_TITLE: « Rapport »,
+  REPORT_WARN_TEXT: « Le contenu sera supprimé s’il est examiné comme une violation. Voulez-vous continuer?',
+
 ```

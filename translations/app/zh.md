@@ -1,5 +1,24 @@
-“”js
-CONTINUE_WITH_LOGIN_HINT：“嘿，您需要登录才能解锁更多功能！
-CURRENT_ANIMATIONS： “GIF”，
-MY_ANIMATIONS： “我的 GIF”，
+'''js
+  IAP_PERIOD_P1M：“月”，
+  IAP_PERIOD_P6M：“6个月”，
+  IAP_PERIOD_P1Y：“年”，
+  REPORT_TEXT：“报告”，
+  REPLY_TEXT：“回复”，
+  REPORT_SUCCESS：“我们已收到您的报告，将对其进行审核”，
+  REPORT_FAILED：“报告失败，再试一次”，
+  DUPLICATED_BLOCK_HINT：“不用担心，您已经阻止了此用户”，
+  BLOCKED_USERS：“已屏蔽的用户”，
+  BLOCK_USER_WARN_TITLE：“您正在阻止此用户！
+  BLOCK_USER_WARN_TEXT：“此用户创建的所有内容都将被阻止并从您的设备中删除。是否要继续？
+  BLOCK_USER：“阻止”，
+  BLOCKED_USERS_SCREEN_TITLE：“黑名单”，
+  BLOCKED_USER_AVATAR：“阿凡达”，
+  BLOCKED_USER_USERNAME：“用户名”，
+  BLOCKED_USER_ACTION：“行动”，
+  UNBLOCK_TEXT：“解锁”，
+  UNBLOCK_WARN_TITLE：“解锁”，
+  UNBLOCK_WARN_TEXT：“确认后，将恢复此用户创建的所有内容。是否要继续？
+  REPORT_WARN_TITLE：“报告”，
+  REPORT_WARN_TEXT：“如果内容被审核为违规行为，则会被删除。是否要继续？
+
 ```

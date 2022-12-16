@@ -1,15 +1,18 @@
 '''js
-  TÍTULO: "Kuroga: Make GIF by sketching",
+  TÍTULO: "Kuroga: Draw GIF maker",
   SHORT_TITLE: "Kuroga: creador de GIF",
-  SHORT_DESC: "Crear animaciones dibujando sobre lienzo cuadro por cuadro",
+  SHORT_DESC: "Editor GIF: Dibuja sobre lienzo y haz animación cuadro a cuadro",
   FULL_DESC: '
-  Básicamente, Kuroga ofrece 2 modos de dibujo para los usuarios: lienzo libre y píxel cuadrado. 
-  El lienzo gratuito permite a los usuarios dibujar en lienzo libremente y Pixel square se compone de pequeños cuadrados para que los usuarios solo necesiten llenar los cuadrados para hacer fotos. 
-  Pixel square es más amigable para los novatos.
-  Kuroga también proporciona:
+  Kuroga es un creador de GIF fácil y gratuito que permite a los usuarios crear animaciones dibujando.
+    Dispone lo siguiente:
+      Lienzo gratis y cuadrado de píxeles. 
+      Free canvas permite a los usuarios dibujar en canvas libremente y Pixel square se compone de pequeños cuadrados para que los usuarios solo necesiten llenar los píxeles para hacer imágenes. 
+      Pixel square es más amigable para los novatos.
+
+También dispone:
 
 Configuración de Canvas:
-      Elija el ancho del trazo y el color de fondo para su lienzo y establezca una velocidad de fotogramas adecuada para su animación GIF.
+      Elija el ancho del trazo y el color de fondo para su dibujo y establezca una velocidad de fotogramas adecuada para su animación.
       
 Publica tu creación:
       Publica tu animación GIF creativa para que todos en Kuroga puedan verla.
@@ -20,10 +23,10 @@ Comentarios y Me gusta:
 Comparte con tus amigos:
       No olvides compartir tu GIF con tus amigos.
       
-Temas:
+Temas: (Temas:)
       Escribe cualquier cosa que pienses o comentarios que todos leerán y serán iluminados
       
 Disfruta de tus avatares:
-      ¡Elige una imagen como tu avatar y disfrútala!
+      ¡Elige una imagen como tu avatar y disfrútala! 
   `
 ```

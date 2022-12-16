@@ -1,29 +1,32 @@
 ```js
-  TITLE: "Kuroga: Make GIF by sketching",
+  TITLE: "Kuroga: Draw GIF maker",
   SHORT_TITLE: "Kuroga: GIF maker",
-  SHORT_DESC: "Create animations by drawing on canvas frame by frame",
+  SHORT_DESC: "GIF editor: Sketch on canvas & make animation frame by frame",
   FULL_DESC: `
-  Basically, Kuroga provides 2 drawing modes for users: Free canvas & Pixel square. 
-  Free canvas allows users to sketch on canvas freely and Pixel square is composed of little squares so that users just need to fill the squares to make photos. 
-  Pixel square is more friendly for newbies.
-  Kuroga also provides:
+  Kuroga is an easy and free GIF maker that allows users to create animations by drawing.
+    It provides:
+      Free canvas & Pixel square. 
+      Free canvas allows users to sketch on canvas freely and Pixel square is composed of little squares so that users just need to fill the pixels to make images. 
+      Pixel square is more friendly for newbies.
 
-    Canvas Settings:
-      Choose stroke width and background colour for your canvas and set a proper frame rate for your GIF animation.
+      It also provides:
+
+      Canvas Settings:
+      Choose stroke width and background color for your drawing and set a proper frame rate for your animation.
       
-    Post your creation:
+      Post your creation:
       Post your creative GIF animation so that everyone on Kuroga can see it.
       
-    Comments & Likes:
-      Comments and give likes for your favourite GIF created by Kuroga members.
+      Comments & Likes:
+      Comments and give likes for your favorite GIF created by Kuroga members.
       
-    Share with your friends:
+      Share with your friends:
       Don't forget to share your GIF with your friends.
       
-    Themes(Topics):
+      Themes: (Topics:)
       Write anything you'd think or feedback that everyone will read and be enlightened
       
-    Enjoy your avatars:
-      Choose an image as your avatar and enjoy it!
+      Enjoy your avatars:
+      Choose an image as your avatar and enjoy it! 
   `
 ```
